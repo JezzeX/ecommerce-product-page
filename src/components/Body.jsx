@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import image1 from "../assets/image-product-1.jpg";
 import image2 from "../assets/image-product-2.jpg";
 import image3 from "../assets/image-product-3.jpg";
